@@ -1,0 +1,8 @@
+owner: modem7
+name: dnd-campaign-template
+public: true
+template: true
+extends: true
+funding: modem7
+version: 0.2.0
+year: 2026
