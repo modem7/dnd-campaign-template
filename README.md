@@ -8,6 +8,22 @@ share), a **DM brief** (DM only) and the **party workbook**. They're built from 
 scripts, checked for spoilers and for spells the character doesn't have yet, and compared
 against golden baselines so layouts don't drift.
 
+## What it makes
+
+The party workbook is a fillable PDF each player fills in. These pages are from a
+brand-new character, so the other documents are still blank starters, with a prompt
+saying what goes in each section.
+
+<p align="center">
+  <img src="docs/images/workbook-overview.png" alt="Workbook cover page with a three-step guide and progress tracker" width="45%">
+  <img src="docs/images/workbook-form.png" alt="Workbook form page with tick boxes and fill-in fields" width="45%">
+</p>
+
+<p align="center">
+  <img src="docs/images/party-handout.png" alt="Starter party handout with a prompt under each heading" width="45%">
+  <img src="docs/images/dm-brief.png" alt="Starter DM brief" width="45%">
+</p>
+
 ## Start here
 
 1. Connect this repo to Claude (claude.ai/code), and say: **set up this repo**.
